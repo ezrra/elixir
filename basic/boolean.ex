@@ -42,3 +42,5 @@ ArgumentError
 # 11
 not 42
 ArgumentError
+
+# Note: and and or are equals andalso and orelse in Erlang
