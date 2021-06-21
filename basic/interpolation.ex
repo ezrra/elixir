@@ -1,0 +1,2 @@
+name = "israel"
+"Hello #{name}"
